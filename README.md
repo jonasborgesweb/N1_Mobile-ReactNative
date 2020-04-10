@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 04: Conceitos do React Native
+  Desafio Mobile: Conceitos do React Native
 </h3>
 
 <p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
@@ -22,19 +22,21 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#Funcionalidades-da-aplicação">Funcionalidades da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Específicação-dos-testes">Especificação dos testes</a>
 </p>
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React Native!
+Esse desafio tem o objetivo de aplicar os Conceitos de React Native em um projeto do Bootcamp GoStack
 
-Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend utilizando o Node.js, e no último desafio em ReactJS.
+Continuando o desenvolvimento da aplicação que irá armazenar repositórios do seu portifólio, onde já desenvolvi o backend utilizando Node.js e o Frontend utilizando React.js
+
+Caso tenha interesse, segue os Links do Repositório:
+- Back-end: [Repositorio - Back-end da Aplicação](https://github.com/jonasborgesweb/N1_BackEnd-NodeJS)
+- Front-end: [Repositorio - Front-End da Aplicação](https://github.com/jonasborgesweb/N1_FrontEnd-ReactJS)
 
 ### Funcionalidades da aplicação
-
-Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo **src/App.js**, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
 
 - **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos **title**, **techs** e número de curtidas seguindo o padrão `${repository.likes} curtidas`, apenas alterando o número para ser dinâmico.
 
@@ -48,7 +50,9 @@ Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, 
 
 Para esse desafio temos os seguintes testes:
 
-- **`should add a like to the like counter of the repository`**: Para que esse teste passe, sua aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
+- **`should add a like to the like counter of the repository`**: Para que esse teste passe, a aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
+
+
 ### Autor
 Jonas Borges - Desenvolvedor Front End
 
@@ -57,4 +61,4 @@ Gostaria de agradecer a todas as pessoas que me apoiam nessa jornada de inicio d
 
 ---
 
-Feito com 💜 by Jonas Borges :wave: [Linkedin](https://www.linkedin.com/in/jonasborgesweb/) - [Instagram](https://www.instagram.com/jonasborgesweb/)
+Feito com 💜 by Jonas Borges :wave: [Linkedin](https://www.linkedin.com/in/jonasborgesweb/) | [Instagram](https://www.instagram.com/jonasborgesweb/)
